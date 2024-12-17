@@ -1,8 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Comic;
+    text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
+    background-color: #C9E7F4;
 }
 header {
     background-color: #C9E7F4;
@@ -39,8 +40,13 @@ nav ul li a:hover {
     margin: 2rem auto;
     padding: 1rem;
     background: white;
-    border-radius: 8px;
+    border-radius: 15px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#missao {
+    font-size: 45px;
+    font-family: "Comic Sans Ms", "Comic Sans", cursive;
 }
 
 table {
